@@ -34,7 +34,7 @@ const ContactUs = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
 
-    const phoneNumber = '628558530861'; // Ganti dengan nomor telepon yang sesuai
+    const phoneNumber = '6283146267242'; // Ganti dengan nomor telepon yang sesuai
     const messageText = `Halo, saya ${firstName} ${lastName}. Topik: ${topic}. Email: ${email}. Pesan: ${message}`; // Pesan yang ingin dikirim
 
     const whatsappURL = `https://api.whatsapp.com/send?phone=${phoneNumber}&text=${encodeURIComponent(

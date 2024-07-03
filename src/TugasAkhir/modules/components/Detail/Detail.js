@@ -48,7 +48,7 @@ const DetailPage = () => {
 
   const createWhatsAppMessage = () => {
     const message = `Title: ${title}%0ACategory: ${category}%0ASize: ${size}%0APrice: ${price}`;
-    const phoneNumber = '628558530861';
+    const phoneNumber = '6283146267242';
     const whatsappURL = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
     return whatsappURL;
   };

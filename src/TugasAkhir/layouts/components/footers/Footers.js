@@ -21,8 +21,8 @@ export default function Footer() {
           <div className="footer-section">
             <h4>Contact Us</h4>
             <p>
-              Email: dzikriqaulant23@gmail.com<br />
-              Phone: +62-855-853-061
+              Email: anzajuanda@gmail.com<br />
+              Phone: +62-8314-6267-242
             </p>
           </div>
           <div className="footer-section">
